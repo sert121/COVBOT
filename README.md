@@ -1,2 +1,2 @@
 # COVBOT
-A chatbot which responds for any query regarding COVID-19
+A chatbot which responds to any query regarding COVID-19
